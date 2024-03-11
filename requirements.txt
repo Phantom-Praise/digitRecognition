@@ -1,0 +1,6 @@
+tensorflow
+keras
+mnist dataset
+numpy
+matplotlib
+pygame
